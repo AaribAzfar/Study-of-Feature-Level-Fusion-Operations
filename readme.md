@@ -37,7 +37,7 @@ Step 1: Download and clone the project
 
 Download the project folder and extract it to your preferred directory.
 
-git repo clone https://github.com/AaribAzfar/Study-of-Feature-Level-Fusion-Operations.git
+git clone https://github.com/AaribAzfar/Study-of-Feature-Level-Fusion-Operations.git
 
 Step 2: Create a virtual environment (recommended)
 

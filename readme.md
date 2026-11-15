@@ -33,9 +33,11 @@ A CUDA-compatible NVIDIA GPU is recommended to accelerate feature extraction and
 
 - Installation
 
-Step 1: Download the project
+Step 1: Download and clone the project
 
 Download the project folder and extract it to your preferred directory.
+
+git repo clone https://github.com/AaribAzfar/Study-of-Feature-Level-Fusion-Operations.git
 
 Step 2: Create a virtual environment (recommended)
 
@@ -73,7 +75,7 @@ Open Project_Notebook.ipynb in your browser.
 
 This project uses the Fakeddit multimodal dataset.
 
-The dataset included in this submission.
+The dataset included in the github repo.
 
 - Running the Notebook
 
